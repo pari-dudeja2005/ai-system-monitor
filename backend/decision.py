@@ -1,4 +1,3 @@
-# backend/decision.py
 import statistics
 
 
