@@ -1,4 +1,3 @@
-# collector/collector.py
 import time
 import psutil
 import requests
